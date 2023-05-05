@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+dfsdfas dsfsdfdsfs
+dsfasd
+fsdyyc<cxy
+fdsdsfayxcy<cxy
+dsfafsdfeafsadfasfsdadsa
+asdfsdafffefas
+cyx
+scy
+=======
+xcdfsdfas dsfsdfdsfs
+dsfasd
+fsd
+dsfsdfadfffa
+fdsdsfacxy
+dfsassafd
+dsfafsdfeafsadfasfsdadsacxycxy<
+asdfsdafffefascxy
+
+>>>>>>> main
